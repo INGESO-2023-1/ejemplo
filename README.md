@@ -1,7 +1,7 @@
 # Código de ejemplo
 ### La idea es que conozcan el formato que les pedimos al usar github 
 #
-#### El programa consiste en un Front hecho en [React](URL "https://react.dev/") y un backend hecho en [Django Rest Framework](URL "https://www.django-rest-framework.org/").
+#### El programa consiste en un Front hecho en [React](https://react.dev/) y un backend hecho en [Django Rest Framework](https://www.django-rest-framework.org/).
 #### La utilidad en concreta es crear una lista de comentarios, estos comentarios quedan almacenados en la base de datos, los cuales pueden ser creados, eliminados y vistos mediante la api.
 
 ![Texto alternativo](assets/ejemplo.gif)
