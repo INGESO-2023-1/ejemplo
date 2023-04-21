@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import {Button, Card, CloseButton, Col, Container, FloatingLabel, Form, Row} from 'react-bootstrap'
 
-const url= 'http://127.0.0.1:8001'
+const url= 'http://127.0.0.1:8000'
 
 const getComentarios = async ()=>{
   const resp = await fetch(url+'/api/list/', {
